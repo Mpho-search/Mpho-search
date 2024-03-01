@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @Mpho-search
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Mpho-search/Mpho-search is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----># 👩‍💻 [Your Full Name]
+---># 
 
 ## 🎓 Undergraduate in Data Science and AI
 
@@ -20,10 +13,10 @@ As an aspiring AI Engineer, I am committed to leveraging my skills and knowledge
 
 ### 🌟 Key Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, C
 - **Data Manipulation and Analysis:** Pandas, NumPy
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn
+- **Data Visualization:** Tableau, Microsoft Power BI
 - **Database Management:** SQL
 - **Tools and Platforms:** Jupyter Notebooks, Git, GitHub
 
