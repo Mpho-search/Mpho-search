@@ -3,45 +3,45 @@
 Mpho-search/Mpho-search is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 👩‍💻 Dion Mpho Mutarisi
 
-## 🎓 Undergraduate in Data Science and AI
+### 🎓 Undergraduate in Data Science and AI | Aspiring Data Scientist
 
-### About Me
+Welcome to my GitHub profile! I am a dedicated undergraduate student majoring in Data Science and Artificial Intelligence, passionate about leveraging data to extract meaningful insights and create innovative solutions. My goal is to contribute to the ever-evolving field of data science and AI while embracing challenges and learning continuously.
 
-Hello! I am Dion Mutarisi, a passionate and dedicated undergraduate student pursuing a degree in Data Science and Artificial Intelligence. 
-As an aspiring AI Engineer, I am committed to leveraging my skills and knowledge to extract valuable insights from complex datasets.
+## 🔍 About Me
 
-### 🌟 Key Skills
+- 🌟 **Academic Achievements**: Currently pursuing a Bachelor's degree in Data Science and AI and different MOOCS, consistently achieving excellence in coursework.
+  
+- 🚀 **Aspiring AI Engineer**: Enthusiastic about applying data-driven approaches to solve real-world problems, with a keen interest in machine learning and predictive analytics.
 
-- **Programming Languages:** Python, R, C
-- **Data Manipulation and Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Data Visualization:** Tableau, Microsoft Power BI
-- **Database Management:** SQL
-- **Tools and Platforms:** Jupyter Notebooks, Git, GitHub
+- 🤝 **Collaborative Team Player**: Experienced in collaborative projects, both academic and extracurricular, fostering teamwork and effective communication.
 
-### 📚 Education
+- 🌐 **Technological Proficiency**: Adept in programming languages such as Python and C++, and experienced in utilizing popular data science libraries and frameworks.
 
-- **University:** Leiden University
-- **Degree:** Bachelor's in Data Science and AI
-- **Expected Graduation:** 07/2026
+## 🛠️ Skills
 
-### 🚀 Projects
+- **Languages**: Python, R, C++
+- **Tools and Libraries**: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Data Visualization**: Tableau, Power BI
+- **Database Management**: SQL
+- **Version Control**: Git, GitHub
 
-- [Project 1 Title](Link to Project 1): Brief description of the project and the skills applied.
-- [Project 2 Title](Link to Project 2): Brief description of the project and the skills applied.
+## 🌱 What I'm Learning
 
-### 🌐 Connect with Me
+Continuously expanding my knowledge in the following areas:
 
-- [LinkedIn]www.linkedin.com/in/dion-mutarisi 
-- [Portfolio Website](Link to Portfolio, if available)
+- Advanced Machine Learning techniques
+- Big Data Analytics
+- Natural Language Processing
+- Large Language Models
 
+## 📈 Projects
 
-### 📫 Contact
+Explore my repositories to find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. Each project comes with detailed documentation and code explanations.
 
-Feel free to reach out to me via email at dion@nashorg.com.
+## 📫 Let's Connect
 
-I am actively seeking internships and opportunities to apply my skills in real-world projects. Let's connect and explore how I can contribute to your team!
+I am open to collaboration, networking, and exploring opportunities. Feel free to reach out through my linkedIn: www.linkedin.com/in/dion-mutarisi  or email: dion@nashorg.com . Looking forward to connecting with like-minded professionals and future collaborators!
 
-Thank you for visiting my GitHub profile! 🚀
 
