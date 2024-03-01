@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👩‍💻 Dion Mpho Mutarisi
 
-### 🎓 Undergraduate in Data Science and AI | Aspiring Data Scientist
+### 🎓 Undergraduate in Data Science and AI | Aspiring AI Engineer
 
 Welcome to my GitHub profile! I am a dedicated undergraduate student majoring in Data Science and Artificial Intelligence, passionate about leveraging data to extract meaningful insights and create innovative solutions. My goal is to contribute to the ever-evolving field of data science and AI while embracing challenges and learning continuously.
 
